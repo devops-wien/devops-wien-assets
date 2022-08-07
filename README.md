@@ -1,5 +1,8 @@
 # devops-wien-media
 devops.wien - media assets
+
+[![gitrepo_image](images/exoscale_event.png "exoscale_event")](https://events.exoscale.com/exoscale-acceler8-vienna)
+
 [![gitrepo_image](images/git_repo.png "gitrepo_image")](https://github.com/devops-wien)
 
 [![gitrepo_image](images/postman_flows.png "postman_flows")](https://devops-vienna.postman.co/workspace/devops.wien---Team-Workspace~1da23a1d-340c-48cd-88e2-79c5d84e8198/overview)
@@ -13,3 +16,5 @@ devops.wien - media assets
 [![gitrepo_image](images/jira_github_integration.png "jira_github_integration")](https://devops-wien.atlassian.net/)
 
 [![gitrepo_image](images/cloudflare_dns_integration.png "cloudflare_dns_integration")](https://dash.cloudflare.com/91b3d10a2c41e59647e3ffbec053d628/devops.wien/dns)
+
+[![gitrepo_image](images/a1_exoscale.png "a1_exoscale")](https://www.a1.net/exoscale)
