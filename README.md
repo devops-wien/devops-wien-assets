@@ -17,4 +17,4 @@ devops.wien - media assets
 
 [![gitrepo_image](images/cloudflare_dns_integration.png "cloudflare_dns_integration")](https://dash.cloudflare.com/91b3d10a2c41e59647e3ffbec053d628/devops.wien/dns)
 
-[![gitrepo_image](images/a1_exoscale.png "exoscale_sks_instances.png")](https://portal.exoscale.com/u/dev-devopswien/compute/instances)
+[![gitrepo_image](images/exoscale_sks_instances.png "exoscale_sks_instances.png")](https://portal.exoscale.com/u/dev-devopswien/compute/instances)
