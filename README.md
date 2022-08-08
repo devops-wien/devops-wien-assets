@@ -18,3 +18,5 @@ devops.wien - media assets
 [![gitrepo_image](images/cloudflare_dns_integration.png "cloudflare_dns_integration")](https://dash.cloudflare.com/91b3d10a2c41e59647e3ffbec053d628/devops.wien/dns)
 
 [![gitrepo_image](images/exoscale_sks_instances.png "exoscale_sks_instances.png")](https://portal.exoscale.com/u/dev-devopswien/compute/instances)
+
+[![gitrepo_image](images/dockerhub_image.png "dockerhub_image")](https://hub.docker.com/r/devopswien/docker-nextjs-demo)
