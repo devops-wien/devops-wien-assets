@@ -1,7 +1,7 @@
-# devops-wien-media
+# devops-wien-assets
 
 ## Live SKS/Terraform Demo - exoscale-acceler8-vienna Preview
-*Sep. 13, 2022 11:45 PM +02:00*
+*Sep. 13, 2022 11:45 AM UTC +02:00*
 
 [Presentation Preview](https://docs.google.com/presentation/d/e/2PACX-1vRjMjUUr7avi567v_C9ucjiNExt3kGc4O9EbcXCnRvTnUbrMgHhar3G0y0PBAro-Gwo_AxXQIHb4MSq/pub?start=true&loop=true&delayms=3000) - ([https://events.exoscale.com/exoscale-acceler8-vienna](https://events.exoscale.com/exoscale-acceler8-vienna))
 
